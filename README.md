@@ -1,4 +1,4 @@
-![Header](https://github.com/karanS08/karanS08/blob/main/header.png "Header")
+[![Header](https://github.com/karanS08/karanS08/blob/main/header.png "Header")](https://karans08.github.io/Portfolio/)
 <h2>Hello, folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
