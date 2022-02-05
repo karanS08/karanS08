@@ -45,6 +45,7 @@
   
 ## &#x1f4c8; GitHub Stats
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karanS08&show_icons=true&bg_color=0d1117&hide_border=true&text_color=2bbc8a&title_color=becacc&icon_color=666666)
 ![ github activity graph](https://activity-graph.herokuapp.com/graph?username=karanS08&bg_color=0d1117&color=2bbc8a&line=becacc&point=666666&area=true&hide_border=true)
 
