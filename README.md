@@ -15,7 +15,7 @@
 
 </h4><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanS08&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=0d1117&ring=E4E2E2&dates=E4E2E2&sideNums=E4E2E2&background=0d1117&stroke=E4E2E2&currStreakLabel=2BBC8A&sideLabels=2BBC8A&currStreakNum=E4E2E2&fire=2BBC8A)](https://git.io/streak-stats)
+
 
 ## 🔧 Technologies & Tools
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
