@@ -1,8 +1,8 @@
- <br> <br>[![Header](https://github.com/karanS08/karanS08/blob/main/header.png "Header")](https://karanS08.me)
+ <br> <br>[![Header](https://github.com/karanS08/karanS08/blob/main/header2.png "Header")](https://karanS08.me)
 <h2>Hola, Amigos!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
-#### My name is Karan Sharma and I'm an undergraduate engineer. I'm from India, living in Dharamshala(HP). I am undergoing my bachelor in Information Technology from Chandigarh University. <br> <br>
+#### My name is Karan Sharma and I'm an undergraduate engineer and a CyberSecurity enthusiast. I'm from India, living in Dharamshala(HP). I am undergoing my bachelor in Information Technology from Chandigarh University.  <br> <br>
 
 
 
@@ -14,6 +14,15 @@
 <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xux8yzs9t1s1kci8jih6pk7bh0gap2o0b7u5laua&rid=giphy.gif&ct=g" width="70px">
 
 </h4><br>
+
+## 💻 Cybersecurity Portfolio 
+
+<img align="right" src="https://github.com/karanS08/karanS08/blob/main/giphy.gif" width="200" height="120" >
+
+Rank : Hacker <br>
+Platform : <a href="https://tryhackme.com/p/karanS08">TryHackMe</a>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/karanS08.png" alt="TryHackMe">  
 
 
 
@@ -51,7 +60,7 @@
 
 
 ## Let's connect <h3>
-                   
+ 
 [![Linkedin Badge](https://img.shields.io/badge/Linkdin-Karan-success)](https://www.linkedin.com/in/karan-sharma-17831b202/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Sharma_karan8-success)](https://twitter.com/Sharma_karan8)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-0802karanS%40gmail.com-success)](mailto:0802karanS@gmail.com)
