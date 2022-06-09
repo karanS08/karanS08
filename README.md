@@ -1,5 +1,5 @@
  <br> <br>[![Header](https://github.com/karanS08/karanS08/blob/main/header2.png "Header")](https://karanS08.me)
-<h2>Hola, Amigos!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2>Hola, Amigos!!</h2>
 
 
 #### My name is Karan Sharma and I'm an undergraduate engineer and a CyberSecurity enthusiast. I'm from India, living in Dharamshala(HP). I am undergoing my bachelor in Information Technology from Chandigarh University.  <br> <br>
@@ -7,11 +7,6 @@
 
 
 
-## Contributions  <br>
-<h4>
-<img src = "https://www.jenkins.io/images/hacktoberfest/logo-hacktoberfest-2021-full.svg" width="90px"> 
-<img src="https://media.giphy.com/media/TbGUMGyqZxU2O7rTgx/giphy.gif" width="90px"> 
-<img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xux8yzs9t1s1kci8jih6pk7bh0gap2o0b7u5laua&rid=giphy.gif&ct=g" width="70px">
 
 </h4><br>
 
