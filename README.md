@@ -61,3 +61,5 @@ Platform : <a href="https://tryhackme.com/p/karanS08">TryHackMe</a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-0802karanS%40gmail.com-success)](mailto:0802karanS@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-Ye8i-success)](https://discordapp.com/users/690065885561356465/)
 </h3><br>
+
+[![@ye8i's Holopin board](https://holopin.io/api/user/board?user=ye8i)](https://holopin.io/@ye8i)
