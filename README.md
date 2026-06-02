@@ -135,9 +135,11 @@ class KaranSharma:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=karanS08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanS08&layout=compact&theme=tokyonight&hide_border=true" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanS08&theme=tokyonight)
 
+<img src="https://streak-stats.demolab.com?user=karanS08&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<br/><br/>
+</div>
 </div>
 
 ---
